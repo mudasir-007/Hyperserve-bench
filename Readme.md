@@ -1,4 +1,4 @@
-# throughput-lab
+# Hyperserve-bench
 
 **Pushing HTTP servers to their throughput limits — Node.js vs. C++, benchmarked head-to-head.**
 
